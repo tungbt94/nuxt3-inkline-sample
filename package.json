@@ -7,6 +7,11 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.1"
+    "nuxt": "3.0.0-rc.1",
+    "sass": "^1.50.1"
+  },
+  "dependencies": {
+    "@inkline/inkline": "^3.0.8",
+    "@inkline/nuxt": "^3.0.7"
   }
 }
